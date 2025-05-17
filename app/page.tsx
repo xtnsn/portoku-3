@@ -66,7 +66,7 @@ export default function Home() {
         </div>
 
         <div className="mt-12 text-center">
-          <Link href="https://www.youtube.com/@IHSAN" target="_blank" rel="noopener noreferrer">
+          <Link href="https://www.youtube.com/@fortunawebid" target="_blank" rel="noopener noreferrer">
             <Button variant="outline" className="group border-purple-500 hover:bg-purple-500/10">
               View All Videos
               <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform" />
@@ -80,7 +80,7 @@ export default function Home() {
 
       <footer className="py-8 border-t border-zinc-800 text-center text-zinc-500">
         <div className="max-w-7xl mx-auto px-4">
-          <p>© {new Date().getFullYear()} IHSAN • All Rights Reserved</p>
+          <p>© {new Date().getFullYear()} Fortuna Web • All Rights Reserved</p>
           <div className="mt-4 flex justify-center space-x-4">
             <Link href="#" className="hover:text-purple-400 transition-colors">
               Instagram
