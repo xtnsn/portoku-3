@@ -22,15 +22,15 @@ export default function HeroSection() {
       <div className="container px-4 mx-auto z-10 text-center">
         <div className="flex flex-col items-center">
           <div className="relative w-32 h-32 md:w-40 md:h-40 mb-8 rounded-full overflow-hidden border-4 border-purple-500 shadow-[0_0_25px_rgba(139,92,246,0.5)]">
-            <Image src="https://i.imgur.com/9m831gs.jpeg" alt="IHSAN" fill className="object-cover" />
+            <Image src="https://i.imgur.com/EgPxH7W.png" alt="IHSAN" fill className="object-cover" />
           </div>
 
           <div className="inline-block mb-4 px-4 py-1 rounded-full bg-purple-500/10 border border-purple-500/20">
-            <span className="text-purple-400 font-medium">Content Creator</span>
+            <span className="text-purple-400 font-medium">Digital Service</span>
           </div>
 
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 bg-gradient-to-r from-white via-purple-200 to-pink-200 bg-clip-text text-transparent">
-            IHSAN
+            Fortuna Web
           </h1>
 
           <p className="text-xl md:text-2xl text-zinc-400 max-w-2xl mb-8">
