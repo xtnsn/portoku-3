@@ -4,7 +4,7 @@ import "./globals.css"
 
 export const metadata: Metadata = {
   title: "Fortuna Web - Bikin Website Muraaaaahhh!!",
-  description: "Created with v0",
+  description: "Fortuna Web - Bikin Website Muraaaaahhh!!",
   generator: "v0.dev",
 }
 
