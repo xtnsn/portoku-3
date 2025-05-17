@@ -82,16 +82,16 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4">
           <p>© {new Date().getFullYear()} Fortuna Web • All Rights Reserved</p>
           <div className="mt-4 flex justify-center space-x-4">
-            <Link href="#" className="hover:text-purple-400 transition-colors">
+            <Link href="https://www.instagram.com/fortuna.web/" className="hover:text-purple-400 transition-colors">
               Instagram
             </Link>
-            <Link href="#" className="hover:text-purple-400 transition-colors">
+            <Link href="https://www.x.com/fortuna.web/" className="hover:text-purple-400 transition-colors">
               Twitter
             </Link>
-            <Link href="#" className="hover:text-purple-400 transition-colors">
+            <Link href="https://www.tiktok.com/@fortuna.web/" className="hover:text-purple-400 transition-colors">
               TikTok
             </Link>
-            <Link href="#" className="hover:text-purple-400 transition-colors">
+            <Link href="https://www.youtube.com/@fortunawebid/" className="hover:text-purple-400 transition-colors">
               YouTube
             </Link>
           </div>
