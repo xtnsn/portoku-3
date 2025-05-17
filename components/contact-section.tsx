@@ -20,7 +20,7 @@ export default function ContactSection() {
 
             <div className="grid grid-cols-2 gap-4">
               <a
-                href="https://instagram.com"
+                href="https://instagram.com/fortuna.web"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex flex-col items-center p-6 bg-zinc-800/50 rounded-xl border border-zinc-700 hover:border-purple-500/50 transition-all hover:scale-105"
@@ -29,11 +29,11 @@ export default function ContactSection() {
                   <Instagram className="h-7 w-7" />
                 </div>
                 <h4 className="font-medium">Instagram</h4>
-                <p className="text-sm text-zinc-400">@ihsan</p>
+                <p className="text-sm text-zinc-400">@fortuna.web</p>
               </a>
 
               <a
-                href="https://youtube.com"
+                href="https://youtube.com/@fortunawebid"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex flex-col items-center p-6 bg-zinc-800/50 rounded-xl border border-zinc-700 hover:border-purple-500/50 transition-all hover:scale-105"
@@ -42,7 +42,7 @@ export default function ContactSection() {
                   <Youtube className="h-7 w-7" />
                 </div>
                 <h4 className="font-medium">YouTube</h4>
-                <p className="text-sm text-zinc-400">@ihsan</p>
+                <p className="text-sm text-zinc-400">@fortunawebid</p>
               </a>
 
               <a
@@ -55,7 +55,7 @@ export default function ContactSection() {
                   <Facebook className="h-7 w-7" />
                 </div>
                 <h4 className="font-medium">Facebook</h4>
-                <p className="text-sm text-zinc-400">@ihsan</p>
+                <p className="text-sm text-zinc-400">@fortuna.web</p>
               </a>
 
               <a
@@ -68,7 +68,7 @@ export default function ContactSection() {
                   <Twitter className="h-7 w-7" />
                 </div>
                 <h4 className="font-medium">Twitter</h4>
-                <p className="text-sm text-zinc-400">@ihsan</p>
+                <p className="text-sm text-zinc-400">@fortuna.web</p>
               </a>
             </div>
           </div>
@@ -84,7 +84,7 @@ export default function ContactSection() {
                   </div>
                   <div>
                     <h4 className="text-sm font-medium text-zinc-400 mb-1">Email</h4>
-                    <p className="text-white">contact@ihsan.com</p>
+                    <p className="text-white">admin@fortunaweb.com</p>
                   </div>
                 </div>
 
